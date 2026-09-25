@@ -52,8 +52,3 @@ hybpiper assemble \
   -t_dna $ref \
   --prefix $sample \
   --bwa
-
-
-  
-  --unqualified_percent_limit 40 \
-  --n_base_limit 5
